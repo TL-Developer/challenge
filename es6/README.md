@@ -31,17 +31,17 @@ Quando estiver em uma tela de album ele deve ver as musicas e conseguir ouvir um
 
 ### Tela principal
 
-![](https://github.com/rodyrafa/challenge/raw/master/imgs/home_1.jpg)
+![](https://github.com/tl-developer/challenge/raw/master/imgs/home_1.jpg)
 
-![](https://github.com/rodyrafa/challenge/raw/master/imgs/home_2.jpg)
+![](https://github.com/tl-developer/challenge/raw/master/imgs/home_2.jpg)
 
 ### Tela de album
 
-![](https://github.com/rodyrafa/challenge/raw/master/imgs/list.jpg)
+![](https://github.com/tl-developer/challenge/raw/master/imgs/list.jpg)
 
 ### Guide
 
-![](https://github.com/rodyrafa/challenge/raw/master/imgs/guide.jpg)
+![](https://github.com/tl-developer/challenge/raw/master/imgs/guide.jpg)
 
 ## Api
 
